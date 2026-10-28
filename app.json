@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Human 1.0",
+    "slug": "human-1-0",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "scheme": "human10",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#F4F4F4" } }
+  }
+}
